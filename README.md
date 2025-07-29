@@ -1,1 +1,1 @@
-ourBuddy is a comprehensive web platform that facilitates group travel by connecting travelers, sharing experiences, and enabling collaborative trip planning. The platform allows users to list and review destinations they've visited, helping others make informed travel decisions.
+TourBuddy is a comprehensive web platform that facilitates group travel by connecting travelers, sharing experiences, and enabling collaborative trip planning. The platform allows users to list and review destinations they've visited, helping others make informed travel decisions.
